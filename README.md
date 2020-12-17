@@ -1,6 +1,7 @@
 # CovidDownloader
 This repository contains the algorithms used to save Covid's reports and store them in a Database.  
-The reports are downloaded from the repo: "https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports"  
+The reports are downloaded from the repo:  
+"https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports"  
 To test it, you can download the "XAMPP" program to create a local db! XAMPP link: https://www.apachefriends.org/it/index.html  
 Covid's reports must be save in the directory 'COVID-19-REPORTS'
 
