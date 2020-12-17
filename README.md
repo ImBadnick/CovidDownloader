@@ -19,6 +19,13 @@ How to use:
 4) Download requirements -> pip install -r requirements.txt
 5) Use the CVmenu to select what you want to do -> python3 CVmenu.py
 
+ATTENTION: To use the db in local   
+1) Install XAMPP and active it
+2) Create the db "COVID"
+3) Create the table "DATA"  
+![Alt text](/Images/TableConfig.png?raw=true "Optional Title")
+
+
 Please cite the repo if you want to use these in your programs -> https://github.com/ImBadnick/CovidDownloader
 
 
